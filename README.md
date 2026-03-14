@@ -14,7 +14,7 @@ A ideia central é ajudar estudantes e iniciantes em **Ciência de Dados** e **M
 
 ## Objetivo
 
-Oferecer um material de apoio com **alto apelo visual** para facilitar o entendimento de árvores de decisão, sendo útil para:
+Oferecer um material de apoio para facilitar o entendimento de árvores de decisão, sendo útil para:
 
 - estudos introdutórios;
 - apresentações acadêmicas;
